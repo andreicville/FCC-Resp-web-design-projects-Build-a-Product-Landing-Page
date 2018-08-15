@@ -2,6 +2,10 @@
 .icon img {
   width: 50px;
 }
+#header {
+  position: fixed;
+  display: flex;
+}
 #img-header {
   width: 300px;
 }

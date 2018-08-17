@@ -28,3 +28,7 @@ section {
 .grid {
   display: flex;
 }
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
